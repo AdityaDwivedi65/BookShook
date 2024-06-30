@@ -77,7 +77,7 @@ BookShook is a web application designed to facilitate the online booking of room
 
 ## Credits
 
-- Designed and developed by [Akhil Rai & Aditya Kumar Dwivedi].
+- Designed and developed by [Akhil Rai(Roll-no:22015002413) & Aditya Kumar Dwivedi(Roll-no:22015002397)].
 - Created as part of learning React and integrating with backend technologies.
 
 ## Future Improvements
